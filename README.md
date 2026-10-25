@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="KOTLA AVINASH — digital forensics. Deleted is not gone" width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/contact.svg" alt="Kotla Avinash — digital forensics, incident response, tool building. Open to DFIR conversations." width="100%">
+  <img src="assets/hero.svg" alt="KOTLA AVINASH — DFIR. Digital forensics, incident response, tool building. Deleted is not gone. Open to DFIR conversations." width="100%">
 </p>
 
 <p align="center">
