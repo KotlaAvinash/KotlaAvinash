@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 38" width="150" height="38" role="img" aria-label="REPOS">
+  <path d="M7 0.5 H140 L149.5 10 V31 Q149.5 37.5 143 37.5 H7 Q0.5 37.5 0.5 31 V7 Q0.5 0.5 7 0.5 Z" fill="#0E0F14" stroke="#22242E"/>
+  <path d="M140 0.5 L149.5 10" stroke="#FF2E4D" stroke-width="1.5"/>
+  <text x="18" y="24" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.4" fill="#F2F2F5">REPOS</text>
+  <text x="132" y="25" text-anchor="end" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="13" fill="#FF2E4D">↗</text>
+</svg>

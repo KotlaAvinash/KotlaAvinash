@@ -22,8 +22,8 @@
 
   <circle class="ring" cx="500" cy="200" r="44" fill="none" stroke="#FF2E4D" stroke-width="1.5"/>
   <circle cx="500" cy="200" r="44" fill="#0E0F14" stroke="#FF2E4D" stroke-width="1.5"/>
-  <text x="500" y="198" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2" fill="#F2F2F5">WD</text>
-  <text x="500" y="215" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10" letter-spacing="2" fill="#FF2E4D">1026</text>
+  <text x="501" y="203" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#F2F2F5">KA</text>
+  <text x="501" y="219" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="8.5" letter-spacing="1.6" fill="#FF2E4D">AVINASH</text>
 
   <g>
       <rect x="50" y="55" width="250" height="54" rx="8" fill="#0E0F14" stroke="#22242E"/>

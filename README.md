@@ -48,8 +48,12 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinash-kotla">linkedin</a> &nbsp;·&nbsp;
-  <a href="https://kotlaavinash.github.io/">blog</a> &nbsp;·&nbsp;
-  <a href="mailto:avinashkotla3699@gmail.com">email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/KotlaAvinash?tab=repositories">all repos</a>
+  <img src="assets/signoff.svg" alt="Kotla Avinash — digital forensics, incident response, tool building" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avinash-kotla"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="36"></a>
+  <a href="https://kotlaavinash.github.io/"><img src="assets/link-blog.svg" alt="Blog" height="36"></a>
+  <a href="mailto:avinashkotla3699@gmail.com"><img src="assets/link-email.svg" alt="Email" height="36"></a>
+  <a href="https://github.com/KotlaAvinash?tab=repositories"><img src="assets/link-repos.svg" alt="All repositories" height="36"></a>
 </p>
