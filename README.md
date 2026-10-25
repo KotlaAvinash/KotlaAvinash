@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash-kotla"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"></a>
   <a href="https://kotlaavinash.github.io/"><img src="assets/btn-blog.svg" alt="Blog" height="44"></a>
-  <a href="mailto:avinaskkotla3699@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44"></a>
+  <a href="mailto:avinashkotla3699@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44"></a>
 </p>
 
 <br>
@@ -50,6 +50,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash-kotla">linkedin</a> &nbsp;·&nbsp;
   <a href="https://kotlaavinash.github.io/">blog</a> &nbsp;·&nbsp;
-  <a href="mailto:avinaskkotla3699@gmail.com">email</a> &nbsp;·&nbsp;
+  <a href="mailto:avinashkotla3699@gmail.com">email</a> &nbsp;·&nbsp;
   <a href="https://github.com/KotlaAvinash?tab=repositories">all repos</a>
 </p>
