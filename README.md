@@ -2,27 +2,9 @@
   <img src="assets/hero.svg" alt="KOTLA AVINASH — digital forensics. Deleted is not gone" width="100%">
 </p>
 
-<p align="center"><code>~/whoami</code></p>
-
 <p align="center">
-  <b>Digital Forensic Analyst at Tata Consultancy Services.</b><br>
-  I run end-to-end investigations across Windows, Linux and mobile, from evidence acquisition<br>
-  and chain of custody through analysis to the final report.
+  <img src="assets/whoami.svg" alt="whoami — Digital Forensic Analyst at Tata Consultancy Services. End-to-end investigations across Windows, Linux and mobile, from evidence acquisition and chain of custody through analysis to the final report. The core of the work is correlation: logs, artifacts and device evidence brought together into one timeline that can be defended. When a tool doesn't exist for the artifact in front of me, I build one." width="100%">
 </p>
-
-<p align="center">
-  The core of the work is correlation: bringing logs, artifacts and device evidence together<br>
-  into a single timeline that can be defended. When a tool doesn't exist for the artifact in front of me,<br>
-  I build one. That's where every project below came from.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/avinash-kotla"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"></a>
-  <a href="https://kotlaavinash.github.io/"><img src="assets/btn-blog.svg" alt="Blog" height="44"></a>
-  <a href="mailto:avinashkotla3699@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44"></a>
-</p>
-
-<br>
 
 <p align="center">
   <img src="assets/loadout.svg" alt="Loadout — 1.5 years in DFIR. Disk: E01/AFF4/RAW acquisition, Windows and Linux forensics. Mobile: Cellebrite UFED, Cellebrite PA, manual SQLite carving, deleted-record recovery. Response: endpoint forensics, incident response, log analysis, timeline correlation. Suites: Magnet AXIOM, FTK, OpenText, EZ Tools, Splunk. Stack: Python, SQLite, Bash, Linux, Windows" width="100%">
@@ -52,8 +34,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinash-kotla"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="36"></a>
-  <a href="https://kotlaavinash.github.io/"><img src="assets/link-blog.svg" alt="Blog" height="36"></a>
-  <a href="mailto:avinashkotla3699@gmail.com"><img src="assets/link-email.svg" alt="Email" height="36"></a>
-  <a href="https://github.com/KotlaAvinash?tab=repositories"><img src="assets/link-repos.svg" alt="All repositories" height="36"></a>
+  <a href="https://www.linkedin.com/in/avinash-kotla"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
+  <a href="https://kotlaavinash.github.io/"><img src="assets/btn-blog.svg" alt="Blog" height="40"></a>
+  <a href="mailto:avinashkotla3699@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="40"></a>
+  <a href="https://github.com/KotlaAvinash?tab=repositories"><img src="assets/btn-repos.svg" alt="All repositories" height="40"></a>
 </p>
