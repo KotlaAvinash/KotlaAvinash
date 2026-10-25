@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" role="img" aria-label="Evidence map: each artifact connects to the tool that reads it.">
+  <style>
+    .flow { animation: flow 1.6s linear infinite; }
+    .ring { transform-origin: 500px 200px; animation: ring 2.4s ease-out infinite; }
+    @keyframes flow { to { stroke-dashoffset: -32; } }
+    @keyframes ring { 0% { transform: scale(1); opacity:.7 } 100% { transform: scale(1.9); opacity:0 } }
+  </style>
+  <defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#FFFFFF" opacity="0.035"/>
+    </pattern><clipPath id="frame"><rect width="1000" height="400" rx="14"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="400" fill="#08080B"/>
+    <rect width="1000" height="400" fill="url(#scan)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="399" rx="14" fill="none" stroke="#22242E"/>
+
+  <text x="500" y="36" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="11" letter-spacing="4" fill="#62656F">EVIDENCE MAP</text>
+  <text x="175" y="36" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10" letter-spacing="3" fill="#8A8D99">WINDOWS</text>
+  <text x="825" y="36" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10" letter-spacing="3" fill="#8A8D99">DISK · MOBILE · KAPE</text>
+
+  <path d="M300 82 C377.0 82, 377.0 200, 454 200" fill="none" stroke="#22242E" stroke-width="1.5"/><path class="flow" style="animation-delay:-0.0s" d="M300 82 C377.0 82, 377.0 200, 454 200" fill="none" stroke="#FF2E4D" stroke-width="1.5" stroke-dasharray="3 13" stroke-linecap="round"/><path d="M300 200 C377.0 200, 377.0 200, 454 200" fill="none" stroke="#22242E" stroke-width="1.5"/><path class="flow" style="animation-delay:-0.4s" d="M300 200 C377.0 200, 377.0 200, 454 200" fill="none" stroke="#FF2E4D" stroke-width="1.5" stroke-dasharray="3 13" stroke-linecap="round"/><path d="M300 318 C377.0 318, 377.0 200, 454 200" fill="none" stroke="#22242E" stroke-width="1.5"/><path class="flow" style="animation-delay:-0.8s" d="M300 318 C377.0 318, 377.0 200, 454 200" fill="none" stroke="#FF2E4D" stroke-width="1.5" stroke-dasharray="3 13" stroke-linecap="round"/><path d="M700 82 C623.0 82, 623.0 200, 546 200" fill="none" stroke="#22242E" stroke-width="1.5"/><path class="flow" style="animation-delay:-1.2s" d="M700 82 C623.0 82, 623.0 200, 546 200" fill="none" stroke="#FF2E4D" stroke-width="1.5" stroke-dasharray="3 13" stroke-linecap="round"/><path d="M700 200 C623.0 200, 623.0 200, 546 200" fill="none" stroke="#22242E" stroke-width="1.5"/><path class="flow" style="animation-delay:-1.6s" d="M700 200 C623.0 200, 623.0 200, 546 200" fill="none" stroke="#FF2E4D" stroke-width="1.5" stroke-dasharray="3 13" stroke-linecap="round"/><path d="M700 318 C623.0 318, 623.0 200, 546 200" fill="none" stroke="#22242E" stroke-width="1.5"/><path class="flow" style="animation-delay:-2.0s" d="M700 318 C623.0 318, 623.0 200, 546 200" fill="none" stroke="#FF2E4D" stroke-width="1.5" stroke-dasharray="3 13" stroke-linecap="round"/>
+
+  <circle class="ring" cx="500" cy="200" r="44" fill="none" stroke="#FF2E4D" stroke-width="1.5"/>
+  <circle cx="500" cy="200" r="44" fill="#0E0F14" stroke="#FF2E4D" stroke-width="1.5"/>
+  <text x="500" y="198" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2" fill="#F2F2F5">WD</text>
+  <text x="500" y="215" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10" letter-spacing="2" fill="#FF2E4D">1026</text>
+
+  <g>
+      <rect x="50" y="55" width="250" height="54" rx="8" fill="#0E0F14" stroke="#22242E"/>
+      <rect x="50" y="73" width="3" height="18" rx="1.5" fill="#FF2E4D"/>
+      <text x="175" y="79" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#F2F2F5">CapabilityAccessManager.db</text>
+      <text x="175" y="97" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="11" fill="#FF2E4D">CAMtool</text>
+    </g><g>
+      <rect x="50" y="173" width="250" height="54" rx="8" fill="#0E0F14" stroke="#22242E"/>
+      <rect x="50" y="191" width="3" height="18" rx="1.5" fill="#FF2E4D"/>
+      <text x="175" y="197" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#F2F2F5">RDP bitmap cache</text>
+      <text x="175" y="215" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="11" fill="#FF2E4D">Rdp-Cache-parser</text>
+    </g><g>
+      <rect x="50" y="291" width="250" height="54" rx="8" fill="#0E0F14" stroke="#22242E"/>
+      <rect x="50" y="309" width="3" height="18" rx="1.5" fill="#FF2E4D"/>
+      <text x="175" y="315" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#F2F2F5">Phone Link databases</text>
+      <text x="175" y="333" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="11" fill="#FF2E4D">phone-link-forensics</text>
+    </g><g>
+      <rect x="700" y="55" width="250" height="54" rx="8" fill="#0E0F14" stroke="#22242E"/>
+      <rect x="947" y="73" width="3" height="18" rx="1.5" fill="#FF2E4D"/>
+      <text x="825" y="79" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#F2F2F5">E01 / raw disk images</text>
+      <text x="825" y="97" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="11" fill="#FF2E4D">E01-index-search</text>
+    </g><g>
+      <rect x="700" y="173" width="250" height="54" rx="8" fill="#0E0F14" stroke="#22242E"/>
+      <rect x="947" y="191" width="3" height="18" rx="1.5" fill="#FF2E4D"/>
+      <text x="825" y="197" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#F2F2F5">Android over ADB</text>
+      <text x="825" y="215" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="11" fill="#FF2E4D">adb-macro-studio</text>
+    </g><g>
+      <rect x="700" y="291" width="250" height="54" rx="8" fill="#0E0F14" stroke="#22242E"/>
+      <rect x="947" y="309" width="3" height="18" rx="1.5" fill="#FF2E4D"/>
+      <text x="825" y="315" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#F2F2F5">SQLECmd / KAPE runs</text>
+      <text x="825" y="333" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="11" fill="#FF2E4D">sqlecmd-maps</text>
+    </g>
+
+  <text x="500" y="384" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10.5" letter-spacing="2" fill="#62656F">read-only by construction  ·  hashed before &amp; after  ·  synthetic test data only</text>
+</svg>
