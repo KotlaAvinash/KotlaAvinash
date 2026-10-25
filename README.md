@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="WHITEDEVIL 1026 — deleted is not gone" width="100%">
+  <img src="assets/hero.svg" alt="KOTLA AVINASH — digital forensics. Deleted is not gone" width="100%">
 </p>
 
 <p align="center"><code>~/whoami</code></p>
