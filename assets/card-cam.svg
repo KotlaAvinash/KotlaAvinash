@@ -15,7 +15,7 @@
 
   <rect x="24" y="29" width="8" height="8" fill="#FF2E4D" transform="rotate(45 28 33)"/>
   <text x="42" y="37" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10.5" letter-spacing="2.2" fill="#FF2E4D">WINDOWS 11 · SQLITE</text>
-  <text x="444" y="37" text-anchor="end" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10.5" fill="#62656F">02</text>
+  <text x="444" y="37" text-anchor="end" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10.5" fill="#62656F">04</text>
 
   <text x="28" y="76" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#F2F2F5">CAMtool</text>
   <text x="28" y="102" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#C4C6CF">Who used the camera, mic or location — and when.</text>
