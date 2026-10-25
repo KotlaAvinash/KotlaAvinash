@@ -2,10 +2,18 @@
   <img src="assets/hero.svg" alt="WHITEDEVIL 1026 — deleted is not gone" width="100%">
 </p>
 
+<p align="center"><code>~/whoami</code></p>
+
 <p align="center">
-  <b>1.5 years in digital forensics &amp; incident response</b>: mobile, endpoint and log analysis.<br>
-  I write forensic parsers for artifacts that don't have one yet,<br>
-  and go looking where deleted rows survive: <code>-wal</code> files, freed pages, slack.
+  <b>Digital Forensic Analyst at Tata Consultancy Services.</b><br>
+  I run end-to-end investigations across Windows, Linux and mobile, from evidence acquisition<br>
+  and chain of custody through analysis to the final report.
+</p>
+
+<p align="center">
+  The core of the work is correlation: bringing logs, artifacts and device evidence together<br>
+  into a single timeline that can be defended. When a tool doesn't exist for the artifact in front of me,<br>
+  I build one. That's where every project below came from.
 </p>
 
 <p align="center">
@@ -17,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/loadout.svg" alt="Loadout — 1.5 years in DFIR. Cellebrite UFED, Cellebrite PA, Magnet AXIOM, FTK, OpenText, EZ Tools · mobile, endpoint, incident response, log analysis · Splunk, Python, SQLite, Bash, Linux, Windows" width="100%">
+  <img src="assets/loadout.svg" alt="Loadout — 1.5 years in DFIR. Disk: E01/AFF4/RAW acquisition, Windows and Linux forensics. Mobile: Cellebrite UFED, Cellebrite PA, manual SQLite carving, deleted-record recovery. Response: endpoint forensics, incident response, log analysis, timeline correlation. Suites: Magnet AXIOM, FTK, OpenText, EZ Tools, Splunk. Stack: Python, SQLite, Bash, Linux, Windows" width="100%">
 </p>
 
 <p align="center">
