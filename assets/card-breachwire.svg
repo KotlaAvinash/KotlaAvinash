@@ -15,7 +15,7 @@
 
   <circle class="pulse" cx="28" cy="33" r="4" fill="#FF2E4D"/>
   <text x="42" y="37" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10.5" letter-spacing="2.2" fill="#FF2E4D">LIVE · THREAT INTEL</text>
-  <text x="444" y="37" text-anchor="end" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10.5" fill="#62656F">08</text>
+  <text x="444" y="37" text-anchor="end" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="10.5" fill="#62656F">01</text>
 
   <text x="28" y="76" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#F2F2F5">Breachwire</text>
   <text x="28" y="102" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#C4C6CF">A threat-intel news desk that runs itself daily.</text>
