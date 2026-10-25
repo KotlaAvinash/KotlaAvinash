@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <b>1.5 years in digital forensics &amp; incident response</b>: mobile, endpoint and log analysis.<br>
   I write forensic parsers for artifacts that don't have one yet,<br>
   and go looking where deleted rows survive: <code>-wal</code> files, freed pages, slack.
 </p>
@@ -14,6 +15,10 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="assets/loadout.svg" alt="Loadout — 1.5 years in DFIR. Cellebrite UFED, Cellebrite PA, Magnet AXIOM, FTK, OpenText, EZ Tools · mobile, endpoint, incident response, log analysis · Splunk, Python, SQLite, Bash, Linux, Windows" width="100%">
+</p>
 
 <p align="center">
   <img src="assets/map.svg" alt="Evidence map — each artifact connects to the tool that reads it" width="100%">
